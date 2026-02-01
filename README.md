@@ -1,6 +1,6 @@
 <div align="center">
 
-# Run and deploy your AI Studio app
+# Run and deploy this Hair Style appointment app
 
 This contains everything you need to know to run the app locally.
 
@@ -11,6 +11,5 @@ This contains everything you need to know to run the app locally.
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`

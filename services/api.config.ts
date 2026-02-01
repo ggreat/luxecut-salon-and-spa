@@ -1,11 +1,10 @@
 
 /**
- * API Configuration - MUST BE PROMINENTLY COMMENTED
  * ================================================
  * Base URL configuration for SpringBoot backend
  */
 export const API_CONFIG = {
-  // Replace with actual deployment URL (e.g., https://api.luxecut.com/api)
+  // Replace with actual deployment URL 
   BASE_URL: 'http://localhost:8080/api', 
   ENDPOINTS: {
     APPOINTMENTS: '/appointments',
